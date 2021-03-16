@@ -17,8 +17,8 @@ background("red");
 
 
 stroke(0,0,0);
-
-text("PICTURE IDENTIFICATION ",750,170);
+textSize(40);
+text("PICTURE IDENTIFICATION ",550,170);
 
  if(gamestate===0){
    form.display();
